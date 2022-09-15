@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//sabendo que o multiplo de 4 q passa de 15 é 16 que é = 4*4 e o que mais se aproxima de 90 é 4*22 eu fiz o algoritmo.
 int main(){
     int x,i,y;
     for(i=4;i<=22;i++){
