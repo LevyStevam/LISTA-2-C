@@ -7,5 +7,5 @@ int main(){
         y = x*x;
         printf("o %d multiplo de 4 tem valor %d e o seu quadrado é: %d \n",i,x,y);
     };
-    
+    return 0;  
 }
