@@ -8,31 +8,31 @@ int main()
         scanf("%d", &x);
         switch(x){
             case 0:
-            break;
+                break;
             case 1:
-            puts("domingo ");
-            break;
+                puts("domingo ");
+                break;
             case 2:
-            puts("segunda ");
-            break;
+                puts("segunda ");
+                break;
             case 3:
-            puts("terça-feira ");
-            break;
+                puts("terça-feira ");
+                break;
             case 4:
-            puts("quarta-feira ");
-            break;
+                puts("quarta-feira ");
+                break;
             case 5:
-            puts("quinta-feira ");
-            break;
+                puts("quinta-feira ");
+                break;
             case 6:
-            puts("sexta-feira ");
-            break;
+                puts("sexta-feira ");
+                break;
             case 7:
-            puts("sábado ");
-            break;
+                puts("sábado ");
+                break;
             default:
-            puts("número invalido");
-            break;
+                puts("número invalido");
+                break;
             
         }
         
